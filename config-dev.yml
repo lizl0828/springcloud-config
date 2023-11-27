@@ -1,9 +1,5 @@
-server:
-  port: 9527
-
-spring:
-  application:
-    name: cloud-gateway-dev
+config:
+  info: dev
   
 
 
